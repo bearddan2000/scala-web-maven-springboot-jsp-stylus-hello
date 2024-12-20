@@ -1,4 +1,4 @@
-# scala-web-maven-springboot-jsp-hello-world
+# scala-web-maven-springboot-jsp-stylus-hello
 
 ## Description
 A POC for spring framework.
@@ -7,6 +7,7 @@ A POC for spring framework.
 - spring boot
 
 ## Docker stack
+- alpine
 - maven:3-openjdk-17
 
 ## To run
